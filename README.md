@@ -1,6 +1,6 @@
 #Dry-Run Memoization 
 
-Dry-Run Memoization is a small project completed as a career project for/during [Udacity.com's](http://www.udacity.com "Udacity") [Front-end nanodegree course](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 "Udacity Front-End Nanodegree"). When a number is passed as a parameter through a memoized version of a function, after the first time only the cached mathematical result is returned on the site. The first time the number is passed as a parameter, it will show "calculating" in the console log of the browser. The project was created using JavaScript. View the resume [here](https://drsimonxx.github.io/dry-run-memoization/).
+Dry-Run Memoization is a small project completed as a career project for/during [Udacity.com's](http://www.udacity.com "Udacity") [Front-end nanodegree course](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 "Udacity Front-End Nanodegree"). When a number is passed as a parameter through a memoized version of a function, after the first time only the cached mathematical result is returned on the site. The first time the number is passed as a parameter, it will show "calculating" in the console log of the browser. The project was created using JavaScript. View the project [here](https://drsimonxx.github.io/dry-run-memoization/).
 
 ##How It Works
 
